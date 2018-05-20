@@ -1,2 +1,2 @@
 # webScraping
-A collection of web scraping projects using Python
+A collection of web scrapings using Python
